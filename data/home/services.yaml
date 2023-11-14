@@ -2,26 +2,26 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Nossos serviços"
+  text: "Com membros especializados em diversas áreas, podemos prestar o serviço ideal para a sua empresa."
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Desenvolvimento Web"
+      text: "Nossa expertise em desenvolvimento web vai além da criação de sites. Estamos comprometidos em construir plataformas online inovadoras e responsivas que não apenas cativam, mas também proporcionam uma experiência de usuário excepcional. Do design à implementação, garantimos soluções web que se alinham perfeitamente aos objetivos e valores da sua empresa. Saiba mais"
       button:
-        label: "Learn more"
+        label: "Ver mais"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Desenvolvimento de Aplicativos"
+      text: "Transforme suas ideias em realidade com nossos serviços de desenvolvimento de aplicativos. Seja para dispositivos móveis ou desktop, nossa equipe utiliza as mais recentes tecnologias para criar aplicativos intuitivos e funcionais. Estamos comprometidos em proporcionar uma presença digital dinâmica para a sua marca, conectando-a diretamente aos seus usuários. Saiba mais"
       button:
-        label: "Learn more"
+        label: "Ver mais"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Análise de dados"
+      text: "Aprofunde-se nas informações cruciais para o seu negócio por meio de nossa expertise em análise de dados. Utilizamos ferramentas avançadas para interpretar dados complexos e fornecer insights valiosos. Seja para otimizar processos internos, identificar oportunidades de crescimento ou tomar decisões estratégicas fundamentadas, a análise de dados é a chave para impulsionar o seu negócio para novos patamares. Saiba mais"
       button:
-        label: "Learn more"
+        label: "Ver mais"
         url: "#"
