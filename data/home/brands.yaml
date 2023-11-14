@@ -2,10 +2,11 @@ enabled: true
 id: "brands"
 
 content:
-  title: "We work with customers brands and startups "
+  title: "Nosso time é composto por profissionais qualificados de diversas empresas renomadas nacionalmente e globalmente"
   items:
-    - "images/brands-samsumg.png"
-    - "images/brands-google.png"
-    - "images/brands-adobe.png"
-    - "images/brands-spotify.png"
-    - "images/brands-dropbox.png"
+    - "images/brands-abinbev.png"
+    - "images/brands-btg.png"
+    - "images/brands-eztools.png"
+    - "images/brands-samsung.png"
+    - "images/brands-cit.png"
+    - "images/brands-stefanini.png"
