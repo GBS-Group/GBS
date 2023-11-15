@@ -7,10 +7,6 @@ content:
     title: "Site - Barbearia Xavier"
     text: "O site foi projetado com foco na experiência do usuário, oferecendo uma navegação intuitiva para os clientes explorarem os serviços oferecidos, conhecerem a equipe talentosa e agendarem seus horários de maneira conveniente. Incorporamos elementos visuais modernos e funcionais, alinhando-se perfeitamente à identidade da barbearia."
 
-    buttons: 
-      - label: "Visitar"
-        url: "#"
-
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Já fizemos y"
     title: "We developed an eCommerce website"
