@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Comece um negócio de sucesso conosco!"
-  image: "images/services-web-development.png"
+  title: "Sua Visão, Nossa Tecnologia. Alavanque conosco!"
+  image: "images/busi.gif"
   button:
-    label: "Let's talk"
-    url: "#"
+    label: "Vamos Conversar"
+    url: "mailto:contato@gbs-group.com.br?subject=Quero%20Crescer!"

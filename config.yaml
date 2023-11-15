@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "GBS"
-  description: "Somos bons."
+  description: "Sua Visão, Nossa Tecnologia - GBS."
   images: 
     - "images/hero-image.png"
 
@@ -34,7 +34,7 @@ params:
     - "contato@gbs-group.com.br"
     - "19 978135445"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 GBS Group All Rights Reserved"
 
 menus:
   main:
@@ -42,25 +42,21 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "Como trabalhamos"
-      url: "/#"
+    - name: "Nossos Serviços"
+      url: "#ourServices"
       weight: 2
 
-    - name: "Nosso Time"
-      url: "/#"
-      weight: 3
+    # - name: "Nosso Time"
+    #   url: "/#"
+    #   weight: 3
 
-    - name: "Preços"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
 
   buttons:
     - name: "Contato"
-      url: "/#"
+      url: "mailto:contato@gbs-group.com.br?subject=Quero%20Crescer!"
       weight: 5
       pre: "btn btn-primary text-light"
 
@@ -69,21 +65,17 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "Como trabalhamos"
-      url: "/#"
+    - name: "Nossos Serviços"
+      url: "#ourServices"
       weight: 2
 
-    - name: "Nosso Time"
-      url: "/#"
-      weight: 3
+    # - name: "Nosso Time"
+    #   url: "/#"
+    #   weight: 3
 
-    - name: "Preços"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
 
 taxonomies:
   series: "series"

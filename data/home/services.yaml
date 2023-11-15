@@ -5,23 +5,14 @@ content:
   title: "Nossos serviços"
   text: "Com membros especializados em diversas áreas, podemos prestar o serviço ideal para a sua empresa."
   cards:
-    - image: "images/services-web-development.png"
+    - image: "images/services-web.png"
       title: "Desenvolvimento Web"
-      text: "Nossa expertise em desenvolvimento web vai além da criação de sites. Estamos comprometidos em construir plataformas online inovadoras e responsivas que não apenas cativam, mas também proporcionam uma experiência de usuário excepcional. Do design à implementação, garantimos soluções web que se alinham perfeitamente aos objetivos e valores da sua empresa. Saiba mais"
-      button:
-        label: "Ver mais"
-        url: "#"
+      text: "Nossa expertise em desenvolvimento web vai além da criação de sites. Estamos comprometidos em construir plataformas online inovadoras e responsivas que não apenas cativam, mas também proporcionam uma experiência de usuário excepcional. Do design à implementação, garantimos soluções web que se alinham perfeitamente aos objetivos e valores da sua empresa."
 
-    - image: "images/services-web-development.png"
+    - image: "images/services-app.png"
       title: "Desenvolvimento de Aplicativos"
-      text: "Transforme suas ideias em realidade com nossos serviços de desenvolvimento de aplicativos. Seja para dispositivos móveis ou desktop, nossa equipe utiliza as mais recentes tecnologias para criar aplicativos intuitivos e funcionais. Estamos comprometidos em proporcionar uma presença digital dinâmica para a sua marca, conectando-a diretamente aos seus usuários. Saiba mais"
-      button:
-        label: "Ver mais"
-        url: "#"
+      text: "Transforme suas ideias em realidade com nossos serviços de desenvolvimento de aplicativos. Seja para dispositivos móveis ou desktop, nossa equipe utiliza as mais recentes tecnologias para criar aplicativos intuitivos e funcionais. Estamos comprometidos em proporcionar uma presença digital dinâmica para a sua marca."
 
-    - image: "images/services-web-development.png"
+    - image: "images/services-data.png"
       title: "Análise de dados"
-      text: "Aprofunde-se nas informações cruciais para o seu negócio por meio de nossa expertise em análise de dados. Utilizamos ferramentas avançadas para interpretar dados complexos e fornecer insights valiosos. Seja para otimizar processos internos, identificar oportunidades de crescimento ou tomar decisões estratégicas fundamentadas, a análise de dados é a chave para impulsionar o seu negócio para novos patamares. Saiba mais"
-      button:
-        label: "Ver mais"
-        url: "#"
+      text: "Aprofunde-se nas informações cruciais para o seu negócio por meio da análise de dados. Utilizamos ferramentas avançadas para interpretar dados complexos e fornecer insights valiosos. Seja para otimizar processos internos, identificar oportunidades ou tomar decisões estratégicas fundamentadas, a análise de dados é a chave para impulsionar o seu negócio para novos patamares."
