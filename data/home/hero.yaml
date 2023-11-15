@@ -11,5 +11,5 @@ content:
 
   buttonSecondary:
     label: "Vamos nessa"
-    url: "#"
+    url: "mailto:contato@gbs-group.com.br?subject=Quero%20Crescer!"
 
